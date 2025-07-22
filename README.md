@@ -3,7 +3,7 @@
 🚀 **Author**: Shruti Narad  
 📧 **Contact**: shrutinarad06@gmail.com  
 📱 **LinkedIn**: [linkedin.com/in/shrutinarad16](https://linkedin.com/in/shrutinarad)  
-📍 **Location**: Maharashtra, India  
+📍 **Location**: Noida, India  
 🎯 **Open to Work**: Java Developer | Spring Boot | Backend Engineer
 
 ---
@@ -75,10 +75,11 @@ CREATE TABLE Student (
 );
 ```
 
-## 📞 Reach Me
-📧 Email: shrutinarad06@gmail.com
-
-📍 Location: Warora, Maharashtra, India
+## Author
+**Shruti Narad**  
+💼 Software Engineer | 💡 Problem Solver | 🔐 Passionate about Clean Code  
+📧 **Email**: shrutinarad06@gmail.com
+📱 **LinkedIn**: [linkedin.com/in/shrutinarad16](https://linkedin.com/in/shrutinarad)  
 
 #### 🔍 “If you're hiring for a Java role, I would love the opportunity to connect and grow with your team!”
 
